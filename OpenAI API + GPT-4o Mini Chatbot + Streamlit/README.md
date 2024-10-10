@@ -1,6 +1,4 @@
-Here is a template for a `README.md` file that covers the **Introduction**, **Objective**, **Design**, **Implementation**, and **Testing** of your mini chatbot project:
 
-```markdown
 # Mini Chat-Bot Application
 
 ## Introduction
